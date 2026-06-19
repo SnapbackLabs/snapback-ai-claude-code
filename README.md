@@ -1,6 +1,6 @@
 # Claude Code
 
-A Snapback integration (`com.focus.ai.claude-code`). Delegate tasks to the Claude Code CLI agent in a project.
+A Snapback integration (`sh.snapback.ai.claude-code`). Delegate tasks to the Claude Code CLI agent in a project.
 
 ## Build
 
